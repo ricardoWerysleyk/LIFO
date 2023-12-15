@@ -1,0 +1,6 @@
+*.bak
+"arquivos VHDL"/*.bak
+*.circ
+*.vwf
+simulation
+incremental_db
